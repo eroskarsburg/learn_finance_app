@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learnfinanc_app/src/pages/home/home_page.dart';
+import 'package:learnfinanc_app/src/features/home/presentation/home_page.dart';
 
 
 class LearnFinanceApp extends StatelessWidget {
